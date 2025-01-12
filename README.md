@@ -2,7 +2,7 @@
   <h3 align="left">Junior Software Developer</h3>
 
   <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=nayem707&label=Profile%20views&color=0e75b6&style=flat"
+    <img src="https://komarev.com/ghpvc/?username=iNayem707&label=Profile%20views&color=0e75b6&style=flat"
       alt="nayem707" />
   </p>
 
