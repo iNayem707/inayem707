@@ -1,3 +1,5 @@
+![in](https://github.com/user-attachments/assets/184c302c-2634-49a3-a04a-8e4a6b35c823)
+
 # 👋 Hi, I'm Nayeem Islam!
 ### 🚀 Web Developer | MERN Stack Enthusiast | JavaScript Learner
 
@@ -8,6 +10,7 @@ I'm a passionate full-stack developer working with the MERN stack. Always learni
 - 🌐 **Front-end:** React.js, Next.js, Tailwind CSS
 - ⚙️ **Back-end:** Node.js, Express.js
 - 📦 **Database:** MongoDB, Firebase
+
 - 🛠 **Tools:** Git, GitHub, VS Code, Postman
 
 ### 📫 Connect With Me:
