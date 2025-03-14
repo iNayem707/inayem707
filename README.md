@@ -15,10 +15,10 @@ I'm a passionate full-stack developer working with the MERN stack. Always learni
 - 💼 LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
 - 🌐 Portfolio: [your-website.com](https://your-website.com)
 
-![Nayeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayeemislam&show_icons=true&theme=radical)
+![Nayeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=iNayem707&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nayeemislam&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iNayem707&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nayeemislam&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iNayem707&layout=compact&theme=dark)
 
 
