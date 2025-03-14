@@ -16,3 +16,9 @@ I'm a passionate full-stack developer working with the MERN stack. Always learni
 - 🌐 Portfolio: [your-website.com](https://your-website.com)
 
 ![Nayeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayeemislam&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nayeemislam&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nayeemislam&layout=compact&theme=dark)
+
+
