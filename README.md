@@ -1,7 +1,7 @@
-![NAYEM ISLAM](https://github.com/user-attachments/assets/a4bac577-0d05-400d-bad8-ea6102435d1d)
-
+![NAYEM ISLAM](https://github.com/user-attachments/assets/9b34d845-b76b-4bb6-a9df-0af33e5065e2)
 
 # 👋 Hi, I'm Nayeem Islam!
+
 ### 🚀 Web Developer | MERN Stack Enthusiast | JavaScript Learner
 
 I'm a passionate full-stack developer working with the MERN stack. Always learning and building new things!
